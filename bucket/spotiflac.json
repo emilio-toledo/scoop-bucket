@@ -1,0 +1,14 @@
+{
+  "version": "latest",
+  "license": "MIT",
+  "url": "https://github.com/afkarxyz/SpotiFLAC/releases/latest/download/SpotiFLAC.exe",
+  "depends": "main/ffmpeg-shared",
+  "homepage": "https://github.com/afkarxyz/SpotiFLAC",
+  "bin": "SpotiFLAC.exe",
+  "shortcuts": [
+    [
+      "SpotiFLAC.exe",
+      "SpotiFLAC"
+    ]
+  ]
+}
